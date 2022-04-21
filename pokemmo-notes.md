@@ -1,6 +1,6 @@
 Old post : https://forums.pokemmo.eu/index.php?/topic/144023-diablo-3s-seasonal-mechanics-in-pokemmo/
 
-#Seasonal mode
+# Seasonal mode
 
 #### //Todo traduction et visuels pour le nouveau post forum (pas baclés en 1H cette fois)
 
