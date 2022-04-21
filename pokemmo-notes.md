@@ -12,7 +12,7 @@ Old post : https://forums.pokemmo.eu/index.php?/topic/144023-diablo-3s-seasonal-
 
 - Le monde reste le même : même pseudo, même apparence, même chat, on voit toujours les joueurs comme avant, les meme swarms, dan da man et autres phenos.
 
-- En mode "saison", il ne sera pas possible d'échanger avec les autres joueurs, leur envoyer des items/pokémons/argent par mail ou d'utiliser le GTL, cela afin de prévenir les abus.
+- En mode "saison", il ne sera pas possible d'échanger avec les autres joueurs, leur envoyer des items/pokémons/argent par mail ou d'utiliser le GTL, cela afin de prévenir les abus. Il sera par contre possible d'échanger avec d'autres joueurs si les deux persos sont saisonniers.
 
 - Le contenu de la team et du PC du mode "saison" ne sera pas accessible en mode normal et vice-versa, à l'exception des battle box : on pourra donc faire du PvP (duel, matchmaking et tournois) avec sa team habituelle même en mode saison.
 
@@ -41,3 +41,5 @@ Old post : https://forums.pokemmo.eu/index.php?/topic/144023-diablo-3s-seasonal-
 - En mode "saison", on pourra attraper les légendaires ! Ce sera uniquement pour le fun, le pokédex et pour sketcher des moves => inutilisables en PVP et seront perdus à la fin de la saison. Je trouve ça mieux que le système actuel. //todo faut-il faire cohabiter les 2 systèmes ?
 
 - A la fin de la saison, les joueurs pourront recevoir une ou plusieurs récompenses en fonction de leur avancée dans la storyline de la saison. (Ex: un cosmetic untradable ou un gift comp après avoir battu les 4 ligues)
+
+- En mode "saison", ajouter une indication visuelle en haut à gauche de l'écran pour indiquer au joueur qu'il est en mode saison actuellement.
