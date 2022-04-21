@@ -43,3 +43,15 @@ Old post : https://forums.pokemmo.eu/index.php?/topic/144023-diablo-3s-seasonal-
 - A la fin de la saison, les joueurs pourront recevoir une ou plusieurs récompenses en fonction de leur avancée dans la storyline de la saison. (Ex: un cosmetic untradable ou un gift comp après avoir battu les 4 ligues)
 
 - En mode "saison", ajouter une indication visuelle en haut à gauche de l'écran pour indiquer au joueur qu'il est en mode saison actuellement.
+
+Autres arguments : 
+
+Les joueurs de saisons ne pourront échanger avec les autres joueurs que via échange direct et uniquement entre persos saisoniers. Ca renforcera grandement le côté coop/social dans le jeu. Un joueur ayant coché toutes les cases de nuzlocke pourrait s'il n'a pas de chance se retrouver bloquer à la 1ère arène. Sa seule solution sera alors de mendier un trade avec un autre joueur pour se débloquer.
+
+If something like this is implemented in PokeMMO, PvE players won't leave the game after beating the Elite 4 or catch all the mons : it is in my opinion the best endgame option for PvE/Casual/Social players in a game like PokeMMO : It will increases GREATLY the lifespan of the game.
+
+@Pokemmostaff : I think you guys should bet more on storyline rather than on implementing custom stuff such as events, dungeons or raids. Most people don't care about haloween or lunar events. They're here because they used to love playing Firered/Emerald... and they can play it online here, even with their friends. THIS is the "added value" of PokeMMO. Again, you should bet more on the storyline.
+
+Every time I come back to pokeMMO, I start a new character. And every time I quit because I get bored of money/pvp/shiny farming. Only a few hardcore players are interested in this long term kind of gameplay. Other players = majority of them will just be waiting for new content which is added once every ~4 years. This is unfortunate.
+
+Chaque nouveau monde ajouté (exemple: Johto) augmenterait la durée de vie du mode "normal" ET du mode "saison". Dans la mesure où les saisons se succèdent, les deux features (ajout de contenu jouable + système saisonier) s'emboitent parfaitement.
